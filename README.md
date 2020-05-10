@@ -4,7 +4,7 @@
 
 Download link: https://pan.baidu.com/s/1bXU0dO6eYwcdG36f0zC5BA
 
-Passward: f276
+Password: f276
 
 ![Figure 1](images/USV.png)
 Figure 1
