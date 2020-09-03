@@ -11,14 +11,15 @@ Password: f276
 
 ![Figure 1](images/USV.png)
 
-<center>Figure 1</center>
+Figure 1
 
 
 ![Figure 2](images/distribution.png)	
 
-<center>Figure 2</center>	
+Figure 2
+
 
 There are some examples:
 ![Figure 3](images/examples.png)
 
-<center>Figure 3</center>
+Figure 3
