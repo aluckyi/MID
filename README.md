@@ -4,7 +4,7 @@
 
 Cite the paper：
 
-J. Liu, H. Li, J. Luo, S. Xie, and Y. Sun. Efficient obstacle detection based on prior estimation network and spatially constrained mixture model for unmanned surface vehicles. J Field Robotics, 2020. DOI: https://doi.org/10.1002/rob.21983. 
+Liu J, Li H, Luo J, et al. Efficient obstacle detection based on prior estimation network and spatially constrained mixture model for unmanned surface vehicles[J]. Journal of Field Robotics, 2021, 38(2): 212-228. DOI: https://doi.org/10.1002/rob.21983. 
 
 Download link: https://pan.baidu.com/s/1bXU0dO6eYwcdG36f0zC5BA
 Passwords: f276
